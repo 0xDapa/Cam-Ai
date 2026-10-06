@@ -30,3 +30,11 @@
 - Archivo listo: `retail-vision/data/youtube_long/retail_fixed_kitchendive_BxzeQbHGsMk_12h.mp4` — **42900 s**, **6.2 GiB**.
 - Grok Build WEB LONGEST V1: **pid 674597**, log `retail-vision/outbox/grok_crm_web_longest_v1.log`, RESULT esperado `RESULT_CRM_WEB_LONGEST_V1.md`.
 - CRM local 200; túnel `https://translate-june-voices-reached.trycloudflare.com/` (cloudflared 507483 intacto).
+
+## Update 17:05 VET — noche de 12 h en el teléfono
+
+- YOLO del archivo completo terminó: 1910 visitas, pico 11, ~11,9 h (42900 s), de las 8:43 de la noche a las 8:38 de la mañana.
+- El CRM del teléfono usa `web_12h_kitchendive` como caso único. El almuerzo de 3 h queda solo como comparación.
+- Dos acciones: 3 personas en la mesa en la noche y en la mañana, no en la madrugada; no contratar por las 827 visitas de menos de 15 s.
+- Commit retail-vision `4f3c4f979bb1759b5458c9ed93caa6bfa53624f5`. RESULT: `outbox/RESULT_CRM_WEB_LONGEST_V1.md`.
+- Túnel igual. cloudflared 507483 no se tocó. CRM local HTTP 200.
