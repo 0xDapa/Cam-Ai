@@ -17,3 +17,10 @@
 - Descarga del ~12 h en curso → `retail-vision/data/youtube_long/retail_fixed_kitchendive_BxzeQbHGsMk_12h.mp4`
 - Selección de métricas: `docs/metricas-seleccionadas.md`
 - Siguiente: brief Grok `GROK_BUILD_CRM_WEB_LONGEST_V1` + YOLO + CRM como caso principal en el teléfono.
+
+## Update 15:40+ VET (executor)
+
+- Confirmado: no había Grok CRM apuntando al corte 3h (nada que matar).
+- Repo `https://github.com/0xDapa/Cam-Ai` ya existía (0xDapa); docs/brief alineados.
+- Descarga `BxzeQbHGsMk` yt-dlp pid 653754; brief listo para launch al merge.
+- CRM producto sigue en retail-vision; este repo = memoria agentes.
