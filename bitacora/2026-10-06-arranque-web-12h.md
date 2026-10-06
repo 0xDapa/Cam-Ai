@@ -24,3 +24,9 @@
 - Repo `https://github.com/0xDapa/Cam-Ai` ya existía (0xDapa); docs/brief alineados.
 - Descarga `BxzeQbHGsMk` yt-dlp pid 653754; brief listo para launch al merge.
 - CRM producto sigue en retail-vision; este repo = memoria agentes.
+
+## Update 15:45 VET — download complete + Grok launched
+
+- Archivo listo: `retail-vision/data/youtube_long/retail_fixed_kitchendive_BxzeQbHGsMk_12h.mp4` — **42900 s**, **6.2 GiB**.
+- Grok Build WEB LONGEST V1: **pid 674597**, log `retail-vision/outbox/grok_crm_web_longest_v1.log`, RESULT esperado `RESULT_CRM_WEB_LONGEST_V1.md`.
+- CRM local 200; túnel `https://translate-june-voices-reached.trycloudflare.com/` (cloudflared 507483 intacto).
